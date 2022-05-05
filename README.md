@@ -93,7 +93,7 @@ The shell has a few built-in functions. These are: **setenv**, **unsetenv**, **e
 
 The shell does not handle the following special characters _", ', `, \, *, #._
 
-#### AUTHOR
+#### AUTHORS
 
 * **Mark Mutuota** [@tenmark86](https://github.com/tenmark86)
 * **Ken Kamau** [@Ken-Kamau](https://github.com/Ken-Kamau)
