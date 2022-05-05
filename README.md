@@ -1,7 +1,5 @@
 # simple_shell
   SHell, custom shell version 
-  
-COMPILATION
 
 #### COMPILATION
 
@@ -19,7 +17,7 @@ COMPILATION
 
 #### DESCRIPTION
 
-**Simple SHell** is a homebrewed **sh**-compatible command language interpreter that executes commands read from the standard input or from a file. Everytime a command is executed in the interactive method described above it will print the shell prompt again after execution is finished. Its use is very similar to the *sh* command line interpreter with the exceptions listed below.
+**Simple_shell** is a homebrewed **sh**-compatible command language interpreter that executes commands read from the standard input or from a file. Everytime a command is executed in the interactive method described above it will print the shell prompt again after execution is finished. Its use is very similar to the *sh* command line interpreter with the exceptions listed below.
 
 #### OPTIONS
 
