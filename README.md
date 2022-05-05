@@ -1,7 +1,26 @@
 # simple_shell
   SHell, custom shell version 
   
-COMPILATION
+# Requirements
+
+# General
+* Allowed editors: ```vi, vim, emacs```
+* All your files will be compiled on ```Ubuntu 20.04 LTS``` using ```gcc```, using the options ```-Wall -Werror -Wextra -pedantic -std=gnu89```
+* All your files should end with a new line
+* A ```README.md``` file, at the root of the folder of the project is mandatory
+* Your code should use the ```Betty style```. It will be checked using ```betty-style.pl``` and ```betty-doc.pl```
+* Your shell should not have any memory leaks
+* No more than 5 functions per file
+* All your ```header files``` should be include guarded
+* Use system calls only when you need to (why?)
+* Write a ```README``` with the description of your project
+* You should have an ```AUTHORS file``` at the root of your repository, listing all individuals having contributed content to the repository. Format, see ```Docker```
+
+# More Info
+
+# Output
+* Unless specified otherwise, your program must have the exact same output as sh (/bin/sh) as well as the exact same error output.
+* The only difference is when you print an error, the name of the program must be equivalent to your argv[0] (See below)
 
 #### COMPILATION
 
@@ -13,13 +32,36 @@ COMPILATION
 
 > gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
 
+#### TESTING
+Your shell should work like this in interactive mode:
+```$ ./hsh
+($) /bin/ls
+hsh main.c shell.c
+($)
+($) exit
+$
+```
+But also in non-interactive mode:
+```
+$ echo "/bin/ls" | ./hsh
+hsh main.c shell.c test_ls_2
+$
+$ cat test_ls_2
+/bin/ls
+/bin/ls
+$
+$ cat test_ls_2 | ./hsh
+hsh main.c shell.c test_ls_2
+hsh main.c shell.c test_ls_2
+$
+```
 #### SYNOPSIS
 
 **./hsh**
 
 #### DESCRIPTION
 
-**Simple SHell** is a homebrewed **sh**-compatible command language interpreter that executes commands read from the standard input or from a file. Everytime a command is executed in the interactive method described above it will print the shell prompt again after execution is finished. Its use is very similar to the *sh* command line interpreter with the exceptions listed below.
+**Simple_shell** is a homebrewed **sh**-compatible command language interpreter that executes commands read from the standard input or from a file. Everytime a command is executed in the interactive method described above it will print the shell prompt again after execution is finished. Its use is very similar to the *sh* command line interpreter with the exceptions listed below.
 
 #### OPTIONS
 
