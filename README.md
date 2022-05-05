@@ -32,7 +32,7 @@
 
 > gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
 
-# Testing
+#### TESTING
 Your shell should work like this in interactive mode:
 ```$ ./hsh
 ($) /bin/ls
