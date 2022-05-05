@@ -1,10 +1,10 @@
-.TH man 1 "27 November 2019" "1.00" "hsh man page"
+.TH man 1 "5 May 2022" "1.00" "hsh man page"
 .SH NAME
-\fBhsh \fR\- Holberton SHell, custom shell version created by Holberton students
+\fBhsh \fR\- simple_shell, custom shell version 
 .SH SYNOPSIS
 \fB./hsh
 .SH DESCRIPTION
-\fBHolberton SHell\fR is a homebrewed \fBsh\fR-compatible command language interpreter that executes commands read from the standard input or from a file. Everytime a command is executed in the interactive method described above it will print the shell prompt again after execution is finished. Its use is very similar to the \fIsh\fR command line interpreter with the exceptions listed below.
+\fBSimple_Shell\fR is a homebrewed \fBsh\fR-compatible command language interpreter that executes commands read from the standard input or from a file. Everytime a command is executed in the interactive method described above it will print the shell prompt again after execution is finished. Its use is very similar to the \fIsh\fR command line interpreter with the exceptions listed below.
 .SH OPTIONS
 This shell does not take any options as of now. However it does handle the CTRL+D and CTRL+C keyboard signals.
 .SH ARGUMENTS
