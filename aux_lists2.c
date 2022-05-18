@@ -7,7 +7,7 @@
  * @lvar: length of the variable.
  * @val: value of the variable.
  * @lval: length of the value.
- * Return: address of the head.
+ * Return: address of the .
  */
 r_var *add_rvar_node(r_var **head, int lvar, char *val, int lval)
 {
