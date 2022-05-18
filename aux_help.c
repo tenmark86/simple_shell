@@ -2,7 +2,7 @@
 
 /**
  * aux_help_env - Help information for the builtin env
- * Return: no return
+ * Return: no 
  */
 void aux_help_env(void)
 {
@@ -15,7 +15,7 @@ void aux_help_env(void)
 }
 /**
  * aux_help_setenv - Help information for the builtin setenv
- * Return: no return
+ * Return: no 
  */
 void aux_help_setenv(void)
 {
