@@ -113,7 +113,7 @@ char *error_not_found(data_shell *datash)
  * error_exit_shell - generic error message for exit in get_exit
  * @datash: data relevant (counter, arguments)
  *
- * Return: Error 
+ * Return: Error message
  */
 char *error_exit_shell(data_shell *datash)
 {
