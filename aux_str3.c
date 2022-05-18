@@ -1,7 +1,7 @@
 #include "headersh.h"
 
 /**
- * rev_string - reverses a string.
+ * rev_string - reverses a .
  * @s: input string.
  * Return: no return.
  */
