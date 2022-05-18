@@ -1,7 +1,7 @@
 #include "headersh.h"
 
 /**
- * cd_dot - changes to the parent 
+ * cd_dot - changes to the parent directory
  *
  * @datash: data relevant (environ)
  *
