@@ -1,5 +1,8 @@
 # simple_shell
-  SHell, custom shell version 
+![shell](https://user-images.githubusercontent.com/83606182/166958657-5b332121-8893-47bd-93b9-e50470b9038f.jpeg)
+
+
+SHell, custom shell version 
   
 # Requirements
 
@@ -93,7 +96,9 @@ The shell has a few built-in functions. These are: **setenv**, **unsetenv**, **e
 
 The shell does not handle the following special characters _", ', `, \, *, #._
 
-#### AUTHOR
+#### AUTHORS
 
 * **Mark Mutuota** [@tenmark86](https://github.com/tenmark86)
+* **Ken Kamau** [@Ken-Kamau](https://github.com/Ken-Kamau)
+
 
