@@ -99,6 +99,6 @@ The shell does not handle the following special characters _", ', `, \, *, #._
 #### AUTHORS
 
 * **Mark Mutuota** [@tenmark86](https://github.com/tenmark86)
-* **Kennedy Kamau** [@Ken-Kamau](https://github.com/Ken-Kamau)
+* **Ken Kamau** [@Ken-Kamau](https://github.com/Ken-Kamau)
 
 
