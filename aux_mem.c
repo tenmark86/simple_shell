@@ -6,7 +6,7 @@
  * @ptr: source pointer.
  * @size: size of the new pointer.
  *
- * Return: no .
+ * Return: no return.
  */
 void _memcpy(void *newptr, const void *ptr, unsigned int size)
 {
