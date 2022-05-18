@@ -2,7 +2,7 @@
 ![shell](https://user-images.githubusercontent.com/83606182/166958657-5b332121-8893-47bd-93b9-e50470b9038f.jpeg)
 
 
-SHell, custom shell version 
+# Shell, custom shell version 
   
 # Requirements
 
