@@ -26,4 +26,4 @@ The shell has a few built-in functions. These are: \fBexit, env \fRand \fBcd.\fR
 .SH BUGS
 The shell does not handle the following special characters\fI\fR ", ', `, \\, *, &, #, &&, ||.
 .SH AUTHOR
-Mark Mutuota (\fI@tenmark86\fR) and Kennedy Kamau (\fI@Ken-kamau\fR)
+Mark Mutuota (\fI@tenmark86\fR) and Ken Kamau (\fI@Ken-kamau\fR)
