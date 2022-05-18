@@ -1,7 +1,7 @@
 #include "headersh.h"
 
 /**
- * _strdup - duplicates a str in the heap memory.
+ * _strdup - duplicates a str in the heap .
  * @s: Type char pointer str
  * Return: duplicated str
  */
